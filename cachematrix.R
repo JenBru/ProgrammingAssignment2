@@ -1,4 +1,4 @@
-# Programming assignment 3
+# Programming assignment 2
 # caching the inverse of a matrix inversion via a pair of functions:
 #  1. makeCacheMatrix (creates special matrix object that can cache its inverse)
 #  2. cacheSolve (computes inverse of special matrix returned by 1st function, 
